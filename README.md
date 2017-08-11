@@ -16,6 +16,7 @@ Playbook for how Latero Labs operates
     * [Recommended Libraries][software/react-native/recommended-libraries.md]
 * Dev Ops
 * Collaboration
+* (Food for thought)[food-for-thought.md]
 
 Use this guide for new projects or items being refactored.
 
