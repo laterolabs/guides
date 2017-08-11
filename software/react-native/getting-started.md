@@ -8,7 +8,7 @@ You need to follow the [React Native Getting Started][https://facebook.github.io
 `brew install node`
 `brew install watchman`
 `brew install yarn`
-`npm install -g react-native-cli`
+`yarn global add react-native-cli`
 
 #### iOS
 
