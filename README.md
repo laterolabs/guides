@@ -10,6 +10,10 @@ Playbook for how Latero Labs operates
   * Rails
   * React
   * ReactNative
+    * [Getting Started][software/react-native/getting-started.md]
+    * [Checklist][software/react-native/checklist.md]
+    * [Operations][software/react-native/operations.md]
+    * [Recommended Libraries][software/react-native/recommended-libraries.md]
 * Dev Ops
 * Collaboration
 
