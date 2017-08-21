@@ -10,7 +10,7 @@
  - Configure custom permissions for iOS in Entitlements tab.
  - Add jest for testing
  - Add custom fonts (if any) to both Xcode and Android.
- - If API will *NOT* enforce HTTPS, disable `App Transport Security Settings` in Info.Plist for iOS.
+ - If API will **NOT** enforce HTTPS, disable `App Transport Security Settings` in Info.Plist for iOS.
 
 #### iTunes Connect
  - Create necessary development and production certificates (push notification etc.) and provisioning profiles for the app.
