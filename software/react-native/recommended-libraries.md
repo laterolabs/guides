@@ -21,6 +21,9 @@ Backend (TODO):
   GraphQL
   Standard REST w/ ApiSauce
 
+#### Project Generators
+
+We've used [Ignite](https://github.com/infinitered/ignite) to scaffold our projects. Ignite comes with good default packages, navigation, redux/redux-saga, and many other great things already set up.
 
 # Recommended Libraries
 

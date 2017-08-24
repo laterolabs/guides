@@ -29,6 +29,10 @@ Instead, essential testing breakpoints are things like Reducers, Sagas, and Tran
 Alternatively, debugging JS remotely in the Chrome dev-tools can provide finer grain debugging by `Pausing on Exceptions`. To debug with the Chrome dev-tools, hit `Debug JS remotely` after pressing `ctrl-z-cmd` on the simulator. Then, open the dev-tools and head to the `sources` tab and press `pause on exceptions`
 
 
+### Prettier & ES Lint
+
+We use [Prettier](https://github.com/prettier/prettier) to format out code. We use it alongside some git-hooks to make sure that all JS code is formatted the same. We also use [ES Lint](https://eslint.org/) to ensure various conventions are standardized as well. 
+
 #### Integrating Third Party libraries
 
 Read the documentation of the library, check the issues, and when it was last updated before deciding on using a third party library. React-Native moves fast and many promising libraries fall into unmaintained oblivion.
